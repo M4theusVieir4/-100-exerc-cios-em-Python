@@ -1,0 +1,12 @@
+frase = 'Curso em Vídeo Python'
+#print(frase[::2])
+#print('oi')
+#print(frase.count('e'))
+##print(len(frase))
+#print(frase.replace('Python', 'Androide'))
+#frase = frase.replace('Python','Androide')
+#print(frase)
+#print('Curso' in frase)
+#print(frase.find('Vídeo'))
+dividido = frase.split()
+print(dividido[2][3])
